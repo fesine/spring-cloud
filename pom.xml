@@ -36,6 +36,7 @@
     <modules>
         <module>spring-cloud-eureka</module>
         <module>spring-cloud-provider</module>
+        <module>spring-cloud-consumer</module>
     </modules>
 
 
