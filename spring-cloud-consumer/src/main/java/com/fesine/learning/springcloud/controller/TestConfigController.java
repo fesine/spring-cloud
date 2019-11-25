@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TestConfigController {
 
-    @Value("${from}")
+    @Value("${from:0}")
     private String from;
 
     @RequestMapping("/from")

@@ -39,6 +39,7 @@
         <module>spring-cloud-consumer</module>
         <module>spring-cloud-feign</module>
         <module>spring-cloud-config</module>
+        <module>config-client</module>
     </modules>
 
 
